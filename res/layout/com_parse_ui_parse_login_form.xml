@@ -11,7 +11,8 @@
         style="@style/ParseLoginUI.EditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="@string/com_parse_ui_username_input_hint" />
+        android:hint="@string/com_parse_ui_username_input_hint"
+        android:textColor="@color/white_color" />
 
     <EditText
         android:id="@+id/login_password_input"
@@ -22,7 +23,8 @@
         android:fontFamily="sans-serif"
         android:hint="@string/com_parse_ui_password_input_hint"
         android:inputType="textPassword"
-        android:selectAllOnFocus="true" />
+        android:selectAllOnFocus="true"
+        android:textColor="@color/white_color" />
 
     <LinearLayout
         android:id="@+id/parse_buttons"

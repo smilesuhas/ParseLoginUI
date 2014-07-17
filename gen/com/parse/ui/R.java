@@ -169,11 +169,12 @@ containing a value of this type.
         public static int com_parse_ui_parse_login_help_button_label=0x7f06000a;
         public static int com_parse_ui_parse_login_help_button_label_focus=0x7f06000c;
         public static int com_parse_ui_parse_login_help_button_label_push=0x7f06000b;
-        public static int com_parse_ui_parse_login_help_button_label_selector=0x7f060016;
+        public static int com_parse_ui_parse_login_help_button_label_selector=0x7f060017;
         public static int com_parse_ui_parse_login_text_hint=0x7f06000d;
         public static int com_parse_ui_twitter_login_button=0x7f060012;
         public static int com_parse_ui_twitter_login_button_focus=0x7f060014;
         public static int com_parse_ui_twitter_login_button_push=0x7f060013;
+        public static int white_color=0x7f060016;
     }
     public static final class dimen {
         public static int com_facebook_loginview_compound_drawable_padding=0x7f050008;

@@ -15,5 +15,6 @@
     <color name="com_parse_ui_twitter_login_button_push">#2588B5</color>
     <color name="com_parse_ui_twitter_login_button_focus">#2788BE</color>
     <color name="black_color">#000000</color>
+    <color name="white_color">#FFFFFF</color>
 
 </resources>

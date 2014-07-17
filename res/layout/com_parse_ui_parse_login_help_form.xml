@@ -19,7 +19,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/com_parse_ui_xlarge_vertical_spacing"
         android:hint="@string/com_parse_ui_login_help_email_input_hint"
-        android:inputType="textEmailAddress" >
+        android:inputType="textEmailAddress"
+        android:textColor="@color/white_color" >
     </EditText>
 
     <Button
